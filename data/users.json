@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "age": 28,
+    "bio": "Gosta de caminhar e de viajar",
+    "lat": -23.561684,
+    "lng": -46.625378,
+    "photo": "https://randomuser.me/api/portraits/women/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bruno",
+    "age": 30,
+    "bio": "Apaixonado por tecnologia e culinária",
+    "lat": -22.906847,
+    "lng": -43.172896,
+    "photo": "https://randomuser.me/api/portraits/men/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Carla",
+    "age": 27,
+    "bio": "Gosta de esportes ao ar livre",
+    "lat": -30.034647,
+    "lng": -51.217658,
+    "photo": "https://randomuser.me/api/portraits/women/3.jpg"
+  }
+]
