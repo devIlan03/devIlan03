@@ -1,0 +1,11 @@
+[project]
+name = "adaptanote"
+version = "0.1.0"
+description = "Protótipo simples do gerador de atividades acessíveis"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{ name = "AdaptaNote" }]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
